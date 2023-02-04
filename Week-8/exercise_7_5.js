@@ -17,3 +17,6 @@ function NextGreaterElement(nums){
   }
   
   NextGreaterElement([1,3,2,4])
+
+//Time complexity: O(n^2)
+//Space complexity: O(n)
