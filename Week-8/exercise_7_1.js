@@ -69,9 +69,6 @@ class LinkedList{
     }
 }
 
-function reverseLinkedList(){
-
-}
 
 let newLinkedList = new LinkedList;
 
@@ -82,3 +79,6 @@ for(let i=1;i<=10;i++){
 newLinkedList.display();
 newLinkedList.reverse();
 newLinkedList.display();
+
+//Time complexity: O(n)
+//Space complexity: O(n)
