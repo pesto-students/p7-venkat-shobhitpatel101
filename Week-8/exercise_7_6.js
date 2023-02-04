@@ -37,3 +37,6 @@ for (let i = 0; i < input.length; i++) {
     }
 }
 console.log(output);
+
+//Time complexity: O(n)
+//Space complexity: O(n)
