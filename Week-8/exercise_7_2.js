@@ -59,3 +59,6 @@ for(let i=1;i<=10;i++){
 newLinkedList.display();
 newLinkedList.rotateLinkedlist(3);
 newLinkedList.display();
+
+//Time complexity: O(n)
+//Space complexity: O(1)
