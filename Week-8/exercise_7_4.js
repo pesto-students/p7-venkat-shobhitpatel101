@@ -50,3 +50,5 @@ for(el of exp){
 
 console.log(flag);
 
+//Time complexity: O(n)
+//Space complexity: O(n)
