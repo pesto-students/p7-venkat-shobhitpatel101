@@ -13,5 +13,6 @@ console.log(checkLoop(2,3))
 
 console.log(checkLoop(0,5))
 
-
+//Time complexity: O(1)
+//Space complexity: O(1)
 
